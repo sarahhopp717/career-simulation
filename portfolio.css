@@ -40,6 +40,7 @@ h1 {
 
 #content {
   max-width: 60ch;
+  margin: auto;
 }
 
 img {
@@ -47,13 +48,8 @@ img {
   padding: 5px;
 }
 
-#content {
-  margin: auto;
-}
-
 section {
   border: blue solid 0.2rem;
-  padding-b
 }
 
 h2 {
